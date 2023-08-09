@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* div{
+    height:733px;
+    width: 1445px;
+} */
+
+.shatru{
+    height: 100vh;
+    padding: 300px;
+    background-image: url(../Images/pexels-anjana-c-674010.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    text-align: center;
+    color: aliceblue;
+    line-height: 50px;
+    /* background-position: right top; */
+    font-size: large;
+    font-style: oblique;
+    text-shadow: 500;
+
+    /* background-position: center center;*/
+}
